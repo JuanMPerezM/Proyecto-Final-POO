@@ -2,29 +2,29 @@
 # Pregunta problema
 ¿Cuál es la calidad de aire que se genera en los ambientes, su valor es bueno o malo para la salud?
 # Tabla de contenidos  
-[1. Introducción]
+[1. Introducción](#introduccion)
 
-2. Descripcion del Problema
+[2. Descripcion del problema](#descripcion-del-problema)
 
-3. Descripcion del Objetivo de Desarrollo Sostenible
+[3. Descripcion del objetivo de desarrollo sostenible](descripcion-del-objetivo-de-desarrollo-sostenible)
 
-4. Justificacion
+[4. Justificación del proyecto](#justificacion-del-proyecto)
 
-5. Herramientas Necesarias para el Desarrollo de la Solucion
+[5. Descripción de las tecnologías que se usaron](#descripcion-de-las-tecnologias-que-se-usaron)
 
-6. Resultados
+[6. Resultados](#resultados)
 
-7. Conclusiones
+[7. Conclusiones](#conclusiones)
 
 # Introducción
 
-# Descripcion del Problema
+# Descripcion del problema
 
-# Descripcion del Objetivo de Desarrollo Sostenible
+# Descripcion del objetivo de desarrollo sostenible
 
-# Justificacion
+# Justificación del proyecto
 
-# Herramientas Necesarias para el Desarrollo de la Solucion
+# Descripción de las tecnologías que se usaron
 
 # Resultados
 
