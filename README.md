@@ -16,16 +16,16 @@
 
 7. Conclusiones
 
-#1. Introducción
+# Introducción
 
-#2. Descripcion del Problema
+# Descripcion del Problema
 
-#3. Descripcion del Objetivo de Desarrollo Sostenible
+# Descripcion del Objetivo de Desarrollo Sostenible
 
-#4. Justificacion
+# Justificacion
 
-#5. Herramientas Necesarias para el Desarrollo de la Solucion
+# Herramientas Necesarias para el Desarrollo de la Solucion
 
-#6. Resultados
+# Resultados
 
-#7. Conclusiones
+# Conclusiones
