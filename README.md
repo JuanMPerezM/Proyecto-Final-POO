@@ -1,3 +1,3 @@
 # Proyecto-Final-POO
 # Pregunta problema
-¿Cuál es la calidad de aire en los ambie
+¿Cuál es la calidad de aire en los ambientes?
