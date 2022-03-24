@@ -2,7 +2,7 @@
 # Pregunta problema
 ¿Cuál es la calidad de aire que se genera en los ambientes, su valor es bueno o malo para la salud?
 # Tabla de contenidos  
-1. Introducción
+[1. Introducción]
 
 2. Descripcion del Problema
 
