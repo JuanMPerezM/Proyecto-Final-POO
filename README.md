@@ -26,8 +26,9 @@ En los últimos años
 # Justificación del proyecto
 
 # Descripción de las tecnologías que se usaron
+![image](https://user-images.githubusercontent.com/99050162/160029941-34e198f0-a737-40f8-b47d-ad94ba116d00.png)
 
 # Resultados
-![image](https://user-images.githubusercontent.com/99050162/160029941-34e198f0-a737-40f8-b47d-ad94ba116d00.png)
 ![image](https://user-images.githubusercontent.com/99050162/160029912-4b932d91-db21-40bc-a899-a3ca3246c9f6.png)
+
 # Conclusiones
