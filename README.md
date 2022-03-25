@@ -42,11 +42,11 @@ Este pequeño proyecto se realizo con el fin de monitorear la cantidad de impure
 
 ![image](https://user-images.githubusercontent.com/99050162/160036353-e0563f85-96c9-4207-8839-f6c0e807b8a8.png)
 
-- Visual Studio Code (Python)
+- *Visual Studio Code (Python)*
 
 ![WhatsApp Image 2022-03-24 at 11 20 07 PM](https://user-images.githubusercontent.com/87994944/160053635-4e9557dc-a30b-4f75-aeb5-a3092f933f93.jpeg)
 
-- App Arduino
+- *App Arduino*
 # Resultados
 - TinkerCAD
 
