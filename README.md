@@ -19,10 +19,10 @@
 # Introducción
 En los 2 últimos años Bogotá ha vivido una reducción positiva en la contaminación del aire y se ha presentado una disminución de las concentraciones de Material Particulado (PM) 2.5, pasando de 19,7 a 18,10, lo que representa una reducción de cerca del 8 % de este contaminante en comparación con 2019, esto debido a las cuarentenas obligatorias que han surgido a lo largo de estos años, pero en lo que ha pasado del presente año se ha vuelto a la normalidad en las rutinas diarias, con lo que se espera un aumento considerable en las emisiones de gases contaminantes del aire de la capital colombiana.
 
-# Descripcion del problema
+# Descripción del problema
 El aire contaminado en el ambiente de Bogotá tuvo una gran afectación este año, después de la pandemia, la concentración promedio de Material Particulado (PM10), que mide la contaminación atmosférica de partículas de menos de un micrómetro, llegó a una medición de 34,4 microgramos por metro cúbico (µg), 0,6 menor a la registrada en 2019. Por su parte, para el Material Particulado (PM2.5), la misma medición, la Veeduría estimó en 17.6 µg, es decir 0,4, esto llegando a convertirce en un problema, ya que, se podría llegar a generar multiples afecciones permanenetes si se mantiene en contacto con el mismo por un tiempo prolongado, algunos ejemplos podrían ser el asma, la bronquitis y el cáncer.
 
-# Descripcion del objetivo de desarrollo sostenible
+# Descripción del objetivo de desarrollo sostenible
 Nuestro proyecto se enfocaría en dos desarrollos sostenibles los cuales serían la Salud y el Bienestar y/o Acción por el clima, en la que con el sensor se pueda saber que tan contaminado o que calidad se tiene en el aire, con eso se podría saber que tan peligroso sería para nuestra salud el aire y que medidas se pueden tomar para nuestro bienestar. Por otra parte, el otro desarrollo objetivo es la Acción por el clima, que con el mismo sensor se vean los datos que arrojaría la calidad del aire, para generar conciencia a la población y/o tomar medidas si llegase a presentarse una calidad del aire peligrosa.
 
 # Justificación del proyecto
