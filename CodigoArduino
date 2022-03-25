@@ -6,7 +6,7 @@ int muy_malo=11;
 int extremadamente_malo=12;
 void setup() {
   Serial.begin(9600);
-  inModpe(muy_buena,OUTPUT);
+  pinMode(muy_buena,OUTPUT);
   pinMode(regular,OUTPUT);
   pinMode(mala,OUTPUT);
   pinMode(muy_malo,OUTPUT);
