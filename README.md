@@ -26,7 +26,7 @@ El aire contaminado en el ambiente de Bogotá tuvo una gran afectación este añ
 Nuestro proyecto se enfocaría en dos desarrollos sostenibles los cuales serían la Salud y el Bienestar, en la que con el sensor se pueda saber que tan contaminado o que calidad se tiene en el aire, con eso se protegería que tan peligroso para nuestra salud sería el aire y que medidas se pueden tomar para nuestro bienestar. Por otra parte, el otro desarrollo objetivo es la Acción por el clima, que con el mismo sensor se vean los datos que arrojaría la calidad del aire, para generar conciencia a la población y/o tomar medidas si llegase a presentarse una calidad del aire peligrosa.
 
 # Justificación del proyecto
-Este pequeño proyecto se realizo con el fin de monitorear la cantidad de impurezas que se encuentran en el aire, de esta manera determinar parametros para disminuir la contaminacion o mantener la calidad del aire 
+Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impurezas que se encuentran en el aire, de esta manera determinar parámetros para disminuir la contaminación o mantener la calidad del aire. Para darse una idea, según la Organización Mundial de la Salud se considera un PM2,5 por debajo de 12 como *saludable*, entre 55 y 150 como *nocivo para la salud*, y superior a 150 cómo *peligroso* para las personas que habiten en la zona.
 
 # Descripción de las tecnologías que se usaron
 - *TinkerCAD*
