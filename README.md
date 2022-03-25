@@ -21,6 +21,7 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 
 # Descripcion del problema
 
+
 # Descripcion del objetivo de desarrollo sostenible
 
 # Justificación del proyecto
@@ -41,8 +42,10 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 - TinkerCAD
 - Visual Studio Code (Python)
 # Resultados
+- TinkerCAD
 ![image](https://user-images.githubusercontent.com/99050162/160036162-550aa2fe-419a-48b8-8be2-f6e80cfafc47.png)
 
+- Sensor MQ135
 ![image](https://user-images.githubusercontent.com/99050162/160047716-6f9926f1-0615-41a8-930f-179af117a688.png)
 
 
