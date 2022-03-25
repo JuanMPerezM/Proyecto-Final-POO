@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 25 08:55:42 2022
-
-@author: SALA
-"""
-
 import  random
 
 c=0
