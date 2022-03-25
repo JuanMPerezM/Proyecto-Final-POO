@@ -39,7 +39,7 @@ void loop() {
     digitalWrite(mala,LOW);
     digitalWrite(muy_malo,LOW);
     digitalWrite(extremadamente_malo,LOW);
-    delay(1000);
+    delay(500);
   }
   if(mql135>=91 and mql135<=110){    
     Serial.println("regular");
@@ -48,7 +48,7 @@ void loop() {
     digitalWrite(mala,LOW);
     digitalWrite(muy_malo,LOW);
     digitalWrite(extremadamente_malo,LOW);
-    delay(1000); 
+    delay(500); 
   
   
   }
@@ -59,7 +59,7 @@ void loop() {
     digitalWrite(mala,HIGH);
     digitalWrite(muy_malo,LOW);
     digitalWrite(extremadamente_malo,LOW);
-    delay(1000);
+    delay(500);
   }
     if(mql135>=166 and mql135<=220){
       Serial.println("muy mala");
@@ -68,7 +68,7 @@ void loop() {
       digitalWrite(mala,LOW);
       digitalWrite(muy_malo,HIGH);
       digitalWrite(extremadamente_malo,LOW);
-      delay(1000);    
+      delay(500);    
     }
     if(mql135>=221 and mql135<=550){
       Serial.println("extremadamente mala");
@@ -77,7 +77,7 @@ void loop() {
       digitalWrite(mala,LOW);
       digitalWrite(muy_malo,LOW);
       digitalWrite(extremadamente_malo,HIGH);
-      delay(1000);
+      delay(500);
     }
          
     
