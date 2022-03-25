@@ -32,5 +32,6 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 
 # Resultados
 ![image](https://user-images.githubusercontent.com/99050162/160036162-550aa2fe-419a-48b8-8be2-f6e80cfafc47.png)
+![image](https://user-images.githubusercontent.com/99050162/160036688-bf684600-3c3d-4d84-b6ac-f0ab3fdb0b5e.png)
 
 # Conclusiones
