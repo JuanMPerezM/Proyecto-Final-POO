@@ -44,12 +44,13 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 
 - *Visual Studio Code (Python)*
 
-![image](https://user-images.githubusercontent.com/99050162/160119067-2b0662b0-0166-4e3c-bc10-069cf5d2f71f.png)
+![image](https://user-images.githubusercontent.com/99050162/160119644-51a58b0c-acb8-47d6-b59b-23afc1508200.png)
+![image](https://user-images.githubusercontent.com/99050162/160119753-4140bc25-95c9-4f12-a8df-848b285601c9.png)
 
-! [imagen] (https://user-images.githubusercontent.com/99050162/160059904-08f976bf-0617-404f-a7d0-b8b41301d2dd.png)
+![image](https://user-images.githubusercontent.com/99050162/160120094-4b860995-5140-4c41-a138-ab9277185b04.png)
 
 
-![WhatsApp Image 2022-03-24 at 11 20 07 PM](https://user-images.githubusercontent.com/87994944/160053635-4e9557dc-a30b-4f75-aeb5-a3092f933f93.jpeg)
+
 ![image](https://user-images.githubusercontent.com/99050162/160061378-821277e0-98a5-4576-add7-a3a636a4fcae.png)
 
 - *App Arduino*
