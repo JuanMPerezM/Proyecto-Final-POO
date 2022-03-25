@@ -1,0 +1,18 @@
+#define MQ_CO2 (0)//
+int mql135;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  mql135=analogRead(MQ_CO2);
+  
+  Serial.print(mql135,DEC);
+  Serial.println("ppm de CO2");
+  delay(100);
+
+  }
