@@ -17,7 +17,7 @@
 [7. Conclusiones](#conclusiones)
 
 # Introducción
-En los últimos años 
+En los 2 últimos años Bogotá ha vivido una reducción positiva en la contaminación del aire, viéndose una reducción de la contaminación del aire hasta del 8%, debido a las cuarentenas obligatorias que han surgido a lo largo de estos años, pero en lo que ha pasado del presente año se ha vuelto a la normalidad en las rutinas diarias, con lo que se espera un aumento considerable de la contaminación del aire en gran parte de la capital colombiana.
 
 # Descripcion del problema
 
