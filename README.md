@@ -62,4 +62,6 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 
 
 # Conclusiones
+-El sensor MQ135 puede ser usado para multiples aplicaciones, como medidor de concentracion sustancias, alcoholimetro, detector de impurezas, etc.
+
 
