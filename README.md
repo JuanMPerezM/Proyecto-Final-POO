@@ -24,9 +24,12 @@ El aire contaminado en el ambiente de Bogotá tuvo una gran afectación este añ
 
 # Descripcion del objetivo de desarrollo sostenible
 
+
 # Justificación del proyecto
 Este pequeño proyecto se realizo con el fin de monitorear la cantidad de impurezas que se encuentran en el aire, de esta manera determinar parametros para disminuir la contaminacion o mantener la calidad del aire
+
 # Descripción de las tecnologías que se usaron
+- *TinkerCAD
 - SENSOR MQ135: este es un sensor de calidad del aire usado para la detección de contaminantes en el medio ambiente.
 - Voltaje de operación: 5V DC
 - Corriente de operación: 150mA
@@ -39,7 +42,6 @@ Este pequeño proyecto se realizo con el fin de monitorear la cantidad de impure
 
 ![image](https://user-images.githubusercontent.com/99050162/160036353-e0563f85-96c9-4207-8839-f6c0e807b8a8.png)
 
-- TinkerCAD
 - Visual Studio Code (Python)
 
 ![WhatsApp Image 2022-03-24 at 11 20 07 PM](https://user-images.githubusercontent.com/87994944/160053635-4e9557dc-a30b-4f75-aeb5-a3092f933f93.jpeg)
