@@ -26,7 +26,7 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 # Justificación del proyecto
 
 # Descripción de las tecnologías que se usaron
-
+- SENSOR MQ135:
 
 ![image](https://user-images.githubusercontent.com/99050162/160036353-e0563f85-96c9-4207-8839-f6c0e807b8a8.png)
 
