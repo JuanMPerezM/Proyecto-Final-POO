@@ -30,13 +30,15 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 - Voltaje de operación: 5V DC
 - Corriente de operación:150mA
 - Potencia de consumo:800mW
-- Tiempo de precalentemiento:20 segundos
-- detección de partes por millón:10ppm-1000ppm
-- concentración detectable: Amoniaco,  sulfuro, benceno, humo
+- Tiempo de precalentamiento:20 segundos
+- Detección de partes por millón:10ppm-1000ppm
+- Concentración detectable: Amoniaco,  sulfuro, benceno, humo
 - Temperatura de operación: -20°C-70°C
 
 ![image](https://user-images.githubusercontent.com/99050162/160036353-e0563f85-96c9-4207-8839-f6c0e807b8a8.png)
 
+- TinkerCAD
+- Visual Studio Code (Python)
 # Resultados
 ![image](https://user-images.githubusercontent.com/99050162/160036162-550aa2fe-419a-48b8-8be2-f6e80cfafc47.png)
 ![image](https://user-images.githubusercontent.com/99050162/160036688-bf684600-3c3d-4d84-b6ac-f0ab3fdb0b5e.png)
