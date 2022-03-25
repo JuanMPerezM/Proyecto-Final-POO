@@ -20,7 +20,7 @@
 En los 2 últimos años Bogotá ha vivido una reducción positiva en la contaminación del aire y se ha presentado una disminución de las concentraciones de Material Particulado (PM) 2.5, pasando de 19,7 a 18,10, lo que representa una reducción de cerca del 8 % de este contaminante en comparación con 2019, esto debido a las cuarentenas obligatorias que han surgido a lo largo de estos años, pero en lo que ha pasado del presente año se ha vuelto a la normalidad en las rutinas diarias, con lo que se espera un aumento considerable en las emisiones de gases contaminantes del aire de la capital colombiana.
 
 # Descripcion del problema
-
+El aire contaminado en el ambiente puede ser muy perjudicial para la salud humana 
 
 # Descripcion del objetivo de desarrollo sostenible
 
