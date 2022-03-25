@@ -64,7 +64,7 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 
 # Conclusiones
 1. El sensor MQ135 puede ser usado para multiples aplicaciones, como medidor de concentracion sustancias, alcoholimetro, detector de impurezas, etc.
-2. Gracias a los sensores MQ135 podemos determinar la calidad del aire y de esta manera determinar si el ambiente es o no perjudicial para la salud
+2. Gracias a los sensores MQ135 podemos determinar la calidad del aire y de esta manera determinar si el ambiente es o no perjudicial para la salud.
 3. Con el proyecto se busca ayudar y buscar soluciones innovadoras a cualquiera de los 17 objetivos de desarrollo sostenible, haciendo énfasis en lo aprendido en clase.
 4. El aprendizaje de nuevas librerías en python y el implemento de arduino, refleja una puerta de lo grande que es el mundo de la programación, haciendo ver que en la mayoría de cosas hoy en día se usa la progrmación, haciendo intuir que en el futuro será esencial para nuestras vidas.
 
