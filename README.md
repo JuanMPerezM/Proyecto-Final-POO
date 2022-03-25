@@ -49,6 +49,7 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 
 
 ![WhatsApp Image 2022-03-24 at 11 20 07 PM](https://user-images.githubusercontent.com/87994944/160053635-4e9557dc-a30b-4f75-aeb5-a3092f933f93.jpeg)
+![image](https://user-images.githubusercontent.com/99050162/160061378-821277e0-98a5-4576-add7-a3a636a4fcae.png)
 
 - *App Arduino*
 # Resultados
