@@ -26,7 +26,7 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 # Justificación del proyecto
 
 # Descripción de las tecnologías que se usaron
--Código en TinkerCAD
+-Código en Arduino
 
 ![image](https://user-images.githubusercontent.com/99050162/160029941-34e198f0-a737-40f8-b47d-ad94ba116d00.png)
 
