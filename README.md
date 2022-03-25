@@ -28,10 +28,10 @@ En los 2 últimos años Bogotá ha vivido una reducción positiva en la contamin
 # Descripción de las tecnologías que se usaron
 - SENSOR MQ135: este es un sensor de calidad del aire usado para la detección de contaminantes en el medio ambiente.
 - Voltaje de operación: 5V DC
-- Corriente de operación:150mA
-- Potencia de consumo:800mW
-- Tiempo de precalentamiento:20 segundos
-- Detección de partes por millón:10ppm-1000ppm
+- Corriente de operación: 150mA
+- Potencia de consumo: 800mW
+- Tiempo de precalentamiento: 20 segundos
+- Detección de partes por millón: 10ppm-1000ppm
 - Concentración detectable: Amoniaco,  sulfuro, benceno, humo
 - Temperatura de operación: -20°C-70°C
 
