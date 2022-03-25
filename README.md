@@ -43,6 +43,7 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 ![image](https://user-images.githubusercontent.com/99050162/160036353-e0563f85-96c9-4207-8839-f6c0e807b8a8.png)
 
 - *Visual Studio Code (Python)*
+
 ![image](https://user-images.githubusercontent.com/99050162/160058740-5c632843-0451-42c4-a6c4-1dff7d7e67aa.png)
 ![image](https://user-images.githubusercontent.com/99050162/160059904-08f976bf-0617-404f-a7d0-b8b41301d2dd.png)
 
