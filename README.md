@@ -67,6 +67,8 @@ Este pequeño proyecto se realizó con el fin de monitorear la cantidad de impur
 
 ![image](https://user-images.githubusercontent.com/99050162/160047716-6f9926f1-0615-41a8-930f-179af117a688.png)
 
+- Con los resultados arrojados por el sensor, pudimos llegar a la conclusión de que nos encontramos en una ciudad con una calidad de aire nociva para la salud, en lo que significa que los gases contaminantes de la ciudad y el aumento de ellos postpandemia, ha sido de un aumento grave para la capital colombiana.
+
 
 # Conclusiones
 1. El sensor MQ135 puede ser usado para multiples aplicaciones, como medidor de concentracion sustancias, alcoholimetro, detector de impurezas, etc.
